@@ -19,39 +19,41 @@
 
 ## 폴더 구조(요약)
 
+```
 src/
-App.jsx / App.css / index.css / main.jsx
-components/
-common/
-Button.jsx
-Search.jsx
-contexts/
-VideoContext.js
-layout/
-Header.jsx
-menu/
-Index.jsx
-MenuList.jsx
-Profile.jsx
-RecentVideos.jsx
-login/
-Input.jsx
-mock/
-comments.json
-user.json
-videoDetail.json
-pages/
-Home.jsx
-Video.jsx
-home/
-HomeSearch.jsx
-KeyWord.jsx
-History.jsx
-Tab.jsx
-user/
-Login.jsx
+  App.jsx / App.css / index.css / main.jsx
+  components/
+    common/
+      Button.jsx
+      Search.jsx
+  contexts/
+    VideoContext.js
+  layout/
+    Header.jsx
+    menu/
+      Index.jsx
+      MenuList.jsx
+      Profile.jsx
+      RecentVideos.jsx
+  login/
+    Input.jsx
+  mock/
+    comments.json
+    user.json
+    videoDetail.json
+  pages/
+    Home.jsx
+    Video.jsx
+    home/
+      HomeSearch.jsx
+      KeyWord.jsx
+      History.jsx
+      Tab.jsx
+    user/
+      Login.jsx
+```
 
-## ▶️ 빠른 시작
+## 빠른 시작
 
 ```bash
 # 1) 의존성 설치
@@ -63,6 +65,8 @@ npm run dev
 # 3) 프로덕션 빌드
 npm run build
 
-### 작성자
-- 한유선 (hanyousun)
 ```
+
+### 작성자
+
+- 한유선 (hanyousun)
