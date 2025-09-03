@@ -10,8 +10,6 @@ import Menu from "./layout/menu/Index";
 import Login from "./pages/user/Login";
 import Home from "./pages/Home";
 import Video from "./pages/Video";
-// css
-import "./App.css";
 
 function App() {
   // 모바일 뷰포트
