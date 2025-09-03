@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "user": "sunny_dev",
+    "title": "React로 만드는 포트폴리오 사이트",
+    "description": "React로 만드는 포트폴리오 사이트의 상세 설명입니다.",
+    "like": 783,
+    "dislike": 5,
+    "tags": ["React", "2025", "포트폴리오", "프론트엔드"],
+    "img": "/img/thumbnail/movielist-thumbnail1.svg",
+    "views": 46970,
+    "uploadedAt": "2025-07-08"
+  },
+  {
+    "id": 2,
+    "user": "coder_kim",
+    "title": "개발자 면접 후기 모음",
+    "description": "개발자 면접 후기 모음의 상세 설명입니다.",
+    "like": 89,
+    "dislike": 1,
+    "tags": ["면접", "개발자", "이력서", "정보"],
+    "img": "/img/thumbnail/movielist-thumbnail2.svg",
+    "views": 4208,
+    "uploadedAt": "2025-07-05"
+  },
+  {
+    "id": 3,
+    "user": "jiwon123",
+    "title": "요리 초보도 가능한 간단 레시피",
+    "description": "요리 초보도 가능한 간단 레시피의 상세 설명입니다.",
+    "like": 3465,
+    "dislike": 60,
+    "tags": ["라이프스타일", "2025", "레시피", "요리"],
+    "img": "/img/thumbnail/movielist-thumbnail3.svg",
+    "views": 46889,
+    "uploadedAt": "2025-06-03"
+  },
+  {
+    "id": 4,
+    "user": "limebread",
+    "title": "2025년 상반기 브이로그 모음",
+    "description": "2025년 상반기 브이로그 모음의 상세 설명입니다.",
+    "like": 458,
+    "dislike": 4,
+    "tags": ["브이로그", "2025", "내돈내산", "일상"],
+    "img": "/img/thumbnail/movielist-thumbnail4.svg",
+    "views": 38042,
+    "uploadedAt": "2025-06-30"
+  },
+  {
+    "id": 5,
+    "user": "ocean_mist",
+    "title": "(광고X) 힙한 카페음악 무한재생",
+    "description": "(광고X) 힙한 카페음악 무한재생의 상세 설명입니다.",
+    "like": 5230,
+    "dislike": 45,
+    "tags": ["카페음악", "팞송", "재즈", "빌보드"],
+    "img": "/img/thumbnail/movielist-thumbnail5.svg",
+    "views": 49863,
+    "uploadedAt": "2025-06-03"
+  },
+  {
+    "id": 6,
+    "user": "daywalker7",
+    "title": "2025 카페 인기음악 Top100",
+    "description": "2025 카페 인기음악 Top100의 상세 설명입니다.",
+    "like": 9809,
+    "dislike": 78,
+    "tags": ["음악", "Top100", "최신음악"],
+    "img": "/img/thumbnail/movielist-thumbnail6.svg",
+    "views": 34002,
+    "uploadedAt": "2025-07-07"
+  },
+  {
+    "id": 7,
+    "user": "mintyway",
+    "title": "2025 카페 투어 베스트 10",
+    "description": "2025 카페 투어 베스트 10의 상세 설명입니다.",
+    "like": 3784,
+    "dislike": 389,
+    "tags": ["서울근교", "핫플", "카페투어"],
+    "img": "/img/thumbnail/movielist-thumbnail7.svg",
+    "views": 29635,
+    "uploadedAt": "2025-06-21"
+  },
+  {
+    "id": 8,
+    "user": "nova_leaf",
+    "title": "먹어도 살안찌는 다이어트 레시피",
+    "description": "먹어도 살안찌는 다이어트 레시피 상세 설명입니다.",
+    "like": 98396,
+    "dislike": 459,
+    "tags": ["다이어트", "무탄수식단", "저탄고지", "키토다이어트"],
+    "img": "/img/thumbnail/movielist-thumbnail8.png",
+    "views": 42716,
+    "uploadedAt": "2025-07-06"
+  },
+  {
+    "id": 9,
+    "user": "frontend_hana",
+    "title": "5분만에 배우는 Tailwind CSS",
+    "description": "5분만에 배우는 Tailwind CSS의 상세 설명입니다.",
+    "like": 874,
+    "dislike": 9,
+    "tags": ["Tailwind", "css", "자기계발"],
+    "img": "/img/thumbnail/movielist-thumbnail9.png",
+    "views": 25775,
+    "uploadedAt": "2025-06-19"
+  },
+  {
+    "id": 10,
+    "user": "lazycoder_",
+    "title": "스위치온 다이어트 후기",
+    "description": "스위치온 다이어트 후기의 상세 설명입니다.",
+    "like": 89454,
+    "dislike": 457,
+    "tags": ["스위치온", "박용우", "단백질쉐이크", "베노프"],
+    "img": "/img/thumbnail/movielist-thumbnail10.png",
+    "views": 48270,
+    "uploadedAt": "2025-07-10"
+  }
+]
