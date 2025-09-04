@@ -62,7 +62,7 @@ function SearchKeyWord() {
     "국내여행",
   ];
   return (
-    <ul className="mx-12 px-7 py-4 flex-wrap justify-start flex gap-y-1 gap-x-2 bg-whColor-13  rounded-b-3xl">
+    <ul className="flex flex-wrap justify-start py-4 mx-12 px-7 gap-y-1 gap-x-2 bg-whColor-13 rounded-b-3xl">
       {keyWords.map((keyWord, i) => (
         <li key={i}>
           <a href="#">{keyWord}</a>

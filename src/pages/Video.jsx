@@ -1,7 +1,7 @@
 import { useContext, useMemo, useState } from "react";
 import clsx from "clsx";
 import { VideoContext } from "../contexts/VideoContext";
-import Search from "../components/common/Search";
+import Search from "../components/form/Search";
 
 function Video() {
   // 비디오 목록 가져오기
@@ -18,7 +18,7 @@ function Video() {
   const [order, setOrder] = useState("id");
   const sortItem = useMemo(() => {
     return [...videoList].sort((a, b) => b[order] - a[order]);
-  }, [order]);
+  }, [order, videoList]);
   const currentOrder = popUpList.find((item) => item.data === order)?.title;
 
   return (
