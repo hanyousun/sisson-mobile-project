@@ -4,13 +4,13 @@ function Button({ variant = "default", size = "default", className = "", childre
   const variants = {
     default: "bg-transparent",
     primary: "bg-primary-1 text-white hover:bg-primary-8",
-    outline: "border",
+    outline: "border border-white",
   };
 
   const sizes = {
     icon: "size-9",
     default: "h-9 px-4 py-2",
-    sm: "h-7 rounded-md gap-1.5 px-3 text-sm",
+    sm: "w-20 h-7 text-xs font-bold rounded-full",
     lg: "w-full h-14 font-bold rounded-full",
     sideIcon: "size-12",
   };

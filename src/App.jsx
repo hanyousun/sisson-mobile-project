@@ -4,8 +4,8 @@ import { Routes, Route, useLocation, Navigate } from "react-router-dom";
 import { VideoContext } from "./contexts/VideoContext";
 import videoList from "./mock/videoDetail.json";
 // component
-import Header from "./layout/Header";
-import Menu from "./layout/menu/Index";
+import Header from "./components/layout/Header";
+import Menu from "./components/layout/menu/Index";
 // page
 import Login from "./pages/user/Login";
 import Home from "./pages/Home";
